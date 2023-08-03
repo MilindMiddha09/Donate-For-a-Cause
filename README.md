@@ -16,4 +16,27 @@ Back-End –
 2.	Database – SQLite3
 3.	Framework – Django
 
+# Snapshots :-
+ # Main Page
+
+ ![image](https://github.com/MilindMiddha09/Donate-For-a-Cause/assets/76994779/ace50ce4-f5b7-4d83-95f6-54a20f8601ee)
+
+ # About Us Page:-
+ ![image](https://github.com/MilindMiddha09/Donate-For-a-Cause/assets/76994779/5ba96eb5-3feb-40ee-b2ed-19e67df40b47)
+
+ # Registration Form :-
+ ![image](https://github.com/MilindMiddha09/Donate-For-a-Cause/assets/76994779/8b2bfbb6-e33c-46fb-9c97-b58f8388b127)
+
+ # Contact Us Page:- 
+ ![image](https://github.com/MilindMiddha09/Donate-For-a-Cause/assets/76994779/773487b9-5422-401e-bd82-8933d86769a5)
+
+ # Find a Donor Form:-
+ ![image](https://github.com/MilindMiddha09/Donate-For-a-Cause/assets/76994779/6c87e746-11f0-4557-83b6-a69b43b026ba)
+ 
+
+
+ 
+
+
+
 
